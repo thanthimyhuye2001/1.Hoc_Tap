@@ -1,0 +1,29 @@
+Trường hợp hạng đầy đủ
+TH1: m >= n = rank(A)
+1 2 3
+3 4 5
+5 7 0
+2 3 0
+
+TH2: n >= m = rank(A)
+1 2 3 4
+3 4 5 6
+5 7 0 0
+
+Trường hợp hạng không đủ
+TH1: m >= n > rank(A)
+1 2 3
+0 0 0
+5 7 0
+2 4 6
+
+TH2: n >= m > rank(A)
+1 2 3 4
+3 4 5 6
+1 2 3 4
+
+Đặc biệt: m = n = rank
+1 2 3 4
+3 4 5 6
+5 7 0 0
+2 3 0 1
