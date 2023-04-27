@@ -8,4 +8,5 @@ for i in range(1,2*n,2):
     
 for goc_cay in range(2):
     print(('| |').center(2*n))
+    
 print(('\===/').center(2*n))
