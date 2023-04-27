@@ -1,2 +1,5 @@
 Môn học giúp mk trình bày code đẹp hơn ko biết
 Nhưng sáng sủa okela hơn
+
+Cách học là xin tài liệu các anh chị khóa trước
+Lên bảng vẽ viết nhiều thuật toán, vẽ sai vẫn có điểm
