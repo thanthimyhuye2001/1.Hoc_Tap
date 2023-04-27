@@ -3,6 +3,7 @@ Thân Thị Mỹ Huyền - 20206288
 In được cây thông nô en theo chiều cao nhập vào '''
 
 n = int(input("cây cao bao nhiêu: "))
+
 for i in range(1,2*n,2):
     print(('*'*i).center(2*n))
     
