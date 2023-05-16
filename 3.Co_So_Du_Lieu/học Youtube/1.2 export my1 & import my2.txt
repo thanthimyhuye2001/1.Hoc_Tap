@@ -1,0 +1,16 @@
+^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+| 1.2 export my1            |
+v.v.v.v.v.v.v.v.v.v.v.v.v.v.v
+chọn hệ CSDL cần xuất (VD: my1)
+Server trên thanh công cụ
+data export
+tích ô my1
+Dump Structure and Data  (Xuất cấu trúc và dữ liệu)
+
+Nhìn xuống dưới có mấy cái ổ, đặt tên thành Order Managerment (ma nít giờ mần)
+Nhìn lên trên có cái Export Progress
+Nhìn sang phải, chỗ giữa giữa => Chạy để ra thanh màu xanh
+
+^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+| 1.2 import vào my2        |
+v.v.v.v.v.v.v.v.v.v.v.v.v.v.v
