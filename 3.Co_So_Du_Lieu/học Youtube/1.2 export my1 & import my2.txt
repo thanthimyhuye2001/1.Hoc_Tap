@@ -17,3 +17,15 @@ v.v.v.v.v.v.v.v.v.v.v.v.v.v.v
 Về lại giao diện để viết câu lệnh => chọn my2
 Server trên thanh công cụ
 data import
+
+Nhìn phải, chọn ... chọn file database (Order Managerment.sql  đã export trước đó)
+Nhìn xuống, Target Schema
+Chọn my2
+
+Chạy => Error 
+ " You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near 'WARNING: --delete-master-logs is deprecated and will be removed in a future vers' at line 1 "
+
+Mở file scirpt bằng MySQL, xóa hết dòng 1
+Làm lại 1 lần nữa 
+=> Chạy ngon
+
